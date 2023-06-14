@@ -18,3 +18,11 @@ Authors [Tammy Erekosima](https://github.com/bigtammy1) | [Emmanuel Ukeme](https
 | ----- | ----------- |
 | http://weather.futuretechng.tech | Project URL |
 | https://www.linkedin.com/posts/bigtammy_portfolio-project-blog-post-the-purpose-activity-7074831446854492160-3-nb?utm_source=share&utm_medium=member_desktop | Project blog post |
+
+<center><h3>Project Inspiration</h3></center>
+
+The reason for this project was to provide accurate weather updates for individuals or event planners who want to plan their events and wish to know how the weather would be during their event.
+
+So the project was mostly designed by Tamunosaki who is the team leader, and the project was really challenging but at the end, it was worth it, as we all learned a lot from the challenges and the project in general.
+
+We are all happy to complete this challenging project and move ahead with other challenging projects which is what helps us to grow as software engineers.
