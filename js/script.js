@@ -21,7 +21,7 @@ let weatherImages = [
         ids: [803, 804]
     },
     {
-        url: 'images/rainy2.png',
+        url: '',
         ids: [801]
     },
     {
